@@ -123,11 +123,12 @@ input{
         background-image: url(./images/photo-1504608524841-42fe6f032b4b.jpeg);
         /* background-size: cover; */
         background-repeat: no-repeat;
-        height: 870px;
-        margin-top: 0px;
-        padding-top: 0px;
+        height: 100%;
+        /* margin-bottom: 20px; */
+        /* padding-bottom: 40px; */
 
     }
+   
     .col{
         /* border-right: 2px rgb(202, 47, 47) solid; */
           margin-top: 10px;
